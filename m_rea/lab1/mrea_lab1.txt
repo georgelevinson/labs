@@ -1,0 +1,255 @@
+
+==============
+EXPERIMENT #1
+==============
+TKp = 0.004331108144192255
+Thermal conductivity coefficient = 426.09899744185833
+
+
+resistivity_microOhmPerMeter = 0.016807520696705394 temperature_C = 20 resistance_ohm = 3.745
+length_m = 7.0 diameter_m = 0.0002 cross_section_mSq = 3.141592653589793e-08
+
+
+resistivity_microOhmPerMeter = 0.017534574996536174 temperature_C = 30 resistance_ohm = 3.907
+length_m = 7.0 diameter_m = 0.0002 cross_section_mSq = 3.141592653589793e-08
+
+
+resistivity_microOhmPerMeter = 0.01826611728587208 temperature_C = 40 resistance_ohm = 4.07
+length_m = 7.0 diameter_m = 0.0002 cross_section_mSq = 3.141592653589793e-08
+
+
+resistivity_microOhmPerMeter = 0.018993171585702868 temperature_C = 50 resistance_ohm = 4.232
+length_m = 7.0 diameter_m = 0.0002 cross_section_mSq = 3.141592653589793e-08
+
+
+resistivity_microOhmPerMeter = 0.019720225885533644 temperature_C = 60 resistance_ohm = 4.394
+length_m = 7.0 diameter_m = 0.0002 cross_section_mSq = 3.141592653589793e-08
+
+
+resistivity_microOhmPerMeter = 0.020447280185364427 temperature_C = 70 resistance_ohm = 4.556
+length_m = 7.0 diameter_m = 0.0002 cross_section_mSq = 3.141592653589793e-08
+
+
+resistivity_microOhmPerMeter = 0.021174334485195206 temperature_C = 80 resistance_ohm = 4.718
+length_m = 7.0 diameter_m = 0.0002 cross_section_mSq = 3.141592653589793e-08
+
+
+resistivity_microOhmPerMeter = 0.021901388785025986 temperature_C = 90 resistance_ohm = 4.88
+length_m = 7.0 diameter_m = 0.0002 cross_section_mSq = 3.141592653589793e-08
+
+
+resistivity_microOhmPerMeter = 0.022632931074361897 temperature_C = 100 resistance_ohm = 5.043
+length_m = 7.0 diameter_m = 0.0002 cross_section_mSq = 3.141592653589793e-08
+
+
+resistivity_microOhmPerMeter = 0.023359985374192677 temperature_C = 110 resistance_ohm = 5.205
+length_m = 7.0 diameter_m = 0.0002 cross_section_mSq = 3.141592653589793e-08
+
+
+resistivity_microOhmPerMeter = 0.024087039674023456 temperature_C = 120 resistance_ohm = 5.367
+length_m = 7.0 diameter_m = 0.0002 cross_section_mSq = 3.141592653589793e-08
+
+
+==============
+EXPERIMENT #2
+==============
+TKp = 0.00014998837299433853
+Thermal conductivity coefficient = 7.158058131348917
+
+
+resistivity_microOhmPerMeter = 1.000504269025803 temperature_C = 20 resistance_ohm = 77.406
+length_m = 3.5 diameter_m = 0.00024 cross_section_mSq = 4.5238934211693026e-08
+
+
+resistivity_microOhmPerMeter = 1.0020036165596762 temperature_C = 30 resistance_ohm = 77.522
+length_m = 3.5 diameter_m = 0.00024 cross_section_mSq = 4.5238934211693026e-08
+
+
+resistivity_microOhmPerMeter = 1.0035029640935496 temperature_C = 40 resistance_ohm = 77.638
+length_m = 3.5 diameter_m = 0.00024 cross_section_mSq = 4.5238934211693026e-08
+
+
+resistivity_microOhmPerMeter = 1.0050152370371974 temperature_C = 50 resistance_ohm = 77.755
+length_m = 3.5 diameter_m = 0.00024 cross_section_mSq = 4.5238934211693026e-08
+
+
+resistivity_microOhmPerMeter = 1.0065145845710706 temperature_C = 60 resistance_ohm = 77.871
+length_m = 3.5 diameter_m = 0.00024 cross_section_mSq = 4.5238934211693026e-08
+
+
+resistivity_microOhmPerMeter = 1.008013932104944 temperature_C = 70 resistance_ohm = 77.987
+length_m = 3.5 diameter_m = 0.00024 cross_section_mSq = 4.5238934211693026e-08
+
+
+resistivity_microOhmPerMeter = 1.0095132796388173 temperature_C = 80 resistance_ohm = 78.103
+length_m = 3.5 diameter_m = 0.00024 cross_section_mSq = 4.5238934211693026e-08
+
+
+resistivity_microOhmPerMeter = 1.0110126271726905 temperature_C = 90 resistance_ohm = 78.219
+length_m = 3.5 diameter_m = 0.00024 cross_section_mSq = 4.5238934211693026e-08
+
+
+resistivity_microOhmPerMeter = 1.0125119747065636 temperature_C = 100 resistance_ohm = 78.335
+length_m = 3.5 diameter_m = 0.00024 cross_section_mSq = 4.5238934211693026e-08
+
+
+resistivity_microOhmPerMeter = 1.014011322240437 temperature_C = 110 resistance_ohm = 78.451
+length_m = 3.5 diameter_m = 0.00024 cross_section_mSq = 4.5238934211693026e-08
+
+
+resistivity_microOhmPerMeter = 1.0155106697743101 temperature_C = 120 resistance_ohm = 78.567
+length_m = 3.5 diameter_m = 0.00024 cross_section_mSq = 4.5238934211693026e-08
+
+
+==============
+EXPERIMENT #3
+==============
+TKp = 1.688608149097881e-05
+Thermal conductivity coefficient = 15.90661644960612
+
+
+resistivity_microOhmPerMeter = 0.45023199880618175 temperature_C = 20 resistance_ohm = 31.979
+length_m = 2.7 diameter_m = 0.00022 cross_section_mSq = 3.80132711084365e-08
+
+
+resistivity_microOhmPerMeter = 0.4503023937526789 temperature_C = 30 resistance_ohm = 31.984
+length_m = 2.7 diameter_m = 0.00022 cross_section_mSq = 3.80132711084365e-08
+
+
+resistivity_microOhmPerMeter = 0.45038686768847536 temperature_C = 40 resistance_ohm = 31.99
+length_m = 2.7 diameter_m = 0.00022 cross_section_mSq = 3.80132711084365e-08
+
+
+resistivity_microOhmPerMeter = 0.45045726263497254 temperature_C = 50 resistance_ohm = 31.995
+length_m = 2.7 diameter_m = 0.00022 cross_section_mSq = 3.80132711084365e-08
+
+
+resistivity_microOhmPerMeter = 0.45052765758146956 temperature_C = 60 resistance_ohm = 32.0
+length_m = 2.7 diameter_m = 0.00022 cross_section_mSq = 3.80132711084365e-08
+
+
+resistivity_microOhmPerMeter = 0.4506121315172661 temperature_C = 70 resistance_ohm = 32.006
+length_m = 2.7 diameter_m = 0.00022 cross_section_mSq = 3.80132711084365e-08
+
+
+resistivity_microOhmPerMeter = 0.4506825264637632 temperature_C = 80 resistance_ohm = 32.011
+length_m = 2.7 diameter_m = 0.00022 cross_section_mSq = 3.80132711084365e-08
+
+
+resistivity_microOhmPerMeter = 0.45076700039955975 temperature_C = 90 resistance_ohm = 32.017
+length_m = 2.7 diameter_m = 0.00022 cross_section_mSq = 3.80132711084365e-08
+
+
+resistivity_microOhmPerMeter = 0.4508373953460568 temperature_C = 100 resistance_ohm = 32.022
+length_m = 2.7 diameter_m = 0.00022 cross_section_mSq = 3.80132711084365e-08
+
+
+resistivity_microOhmPerMeter = 0.45092186928185335 temperature_C = 110 resistance_ohm = 32.028
+length_m = 2.7 diameter_m = 0.00022 cross_section_mSq = 3.80132711084365e-08
+
+
+resistivity_microOhmPerMeter = 0.4509922642283505 temperature_C = 120 resistance_ohm = 32.033
+length_m = 2.7 diameter_m = 0.00022 cross_section_mSq = 3.80132711084365e-08
+
+
+==============
+EXPERIMENT #4
+==============
+TKp = 0.004110671936758892
+Thermal conductivity coefficient = 270.311814582681
+
+
+resistivity_microOhmPerMeter = 0.02649409804527392 temperature_C = 20 resistance_ohm = 0.506
+length_m = 15.0 diameter_m = 0.001 cross_section_mSq = 7.853981633974482e-07
+
+
+resistivity_microOhmPerMeter = 0.02759365547403035 temperature_C = 30 resistance_ohm = 0.527
+length_m = 15.0 diameter_m = 0.001 cross_section_mSq = 7.853981633974482e-07
+
+
+resistivity_microOhmPerMeter = 0.028693212902786775 temperature_C = 40 resistance_ohm = 0.548
+length_m = 15.0 diameter_m = 0.001 cross_section_mSq = 7.853981633974482e-07
+
+
+resistivity_microOhmPerMeter = 0.029792770331543202 temperature_C = 50 resistance_ohm = 0.569
+length_m = 15.0 diameter_m = 0.001 cross_section_mSq = 7.853981633974482e-07
+
+
+resistivity_microOhmPerMeter = 0.030839967882739804 temperature_C = 60 resistance_ohm = 0.589
+length_m = 15.0 diameter_m = 0.001 cross_section_mSq = 7.853981633974482e-07
+
+
+resistivity_microOhmPerMeter = 0.03193952531149623 temperature_C = 70 resistance_ohm = 0.61
+length_m = 15.0 diameter_m = 0.001 cross_section_mSq = 7.853981633974482e-07
+
+
+resistivity_microOhmPerMeter = 0.033039082740252655 temperature_C = 80 resistance_ohm = 0.631
+length_m = 15.0 diameter_m = 0.001 cross_section_mSq = 7.853981633974482e-07
+
+
+resistivity_microOhmPerMeter = 0.03413864016900909 temperature_C = 90 resistance_ohm = 0.652
+length_m = 15.0 diameter_m = 0.001 cross_section_mSq = 7.853981633974482e-07
+
+
+resistivity_microOhmPerMeter = 0.035185837720205684 temperature_C = 100 resistance_ohm = 0.672
+length_m = 15.0 diameter_m = 0.001 cross_section_mSq = 7.853981633974482e-07
+
+
+resistivity_microOhmPerMeter = 0.036285395148962105 temperature_C = 110 resistance_ohm = 0.693
+length_m = 15.0 diameter_m = 0.001 cross_section_mSq = 7.853981633974482e-07
+
+
+resistivity_microOhmPerMeter = 0.03738495257771853 temperature_C = 120 resistance_ohm = 0.714
+length_m = 15.0 diameter_m = 0.001 cross_section_mSq = 7.853981633974482e-07
+
+
+==============
+EXPERIMENT #5
+==============
+TKp = 0.0062507768800497176
+Thermal conductivity coefficient = 73.79161605014573
+
+
+resistivity_microOhmPerMeter = 0.09705259352881877 temperature_C = 20 resistance_ohm = 6.436
+length_m = 3.0 diameter_m = 0.00024 cross_section_mSq = 4.5238934211693026e-08
+
+
+resistivity_microOhmPerMeter = 0.10311461071318563 temperature_C = 30 resistance_ohm = 6.838
+length_m = 3.0 diameter_m = 0.00024 cross_section_mSq = 4.5238934211693026e-08
+
+
+resistivity_microOhmPerMeter = 0.10919170754228974 temperature_C = 40 resistance_ohm = 7.241
+length_m = 3.0 diameter_m = 0.00024 cross_section_mSq = 4.5238934211693026e-08
+
+
+resistivity_microOhmPerMeter = 0.1152537247266566 temperature_C = 50 resistance_ohm = 7.643
+length_m = 3.0 diameter_m = 0.00024 cross_section_mSq = 4.5238934211693026e-08
+
+
+resistivity_microOhmPerMeter = 0.12131574191102347 temperature_C = 60 resistance_ohm = 8.045
+length_m = 3.0 diameter_m = 0.00024 cross_section_mSq = 4.5238934211693026e-08
+
+
+resistivity_microOhmPerMeter = 0.1273777590953903 temperature_C = 70 resistance_ohm = 8.447
+length_m = 3.0 diameter_m = 0.00024 cross_section_mSq = 4.5238934211693026e-08
+
+
+resistivity_microOhmPerMeter = 0.13345485592449444 temperature_C = 80 resistance_ohm = 8.85
+length_m = 3.0 diameter_m = 0.00024 cross_section_mSq = 4.5238934211693026e-08
+
+
+resistivity_microOhmPerMeter = 0.1395168731088613 temperature_C = 90 resistance_ohm = 9.252
+length_m = 3.0 diameter_m = 0.00024 cross_section_mSq = 4.5238934211693026e-08
+
+
+resistivity_microOhmPerMeter = 0.14557889029322815 temperature_C = 100 resistance_ohm = 9.654
+length_m = 3.0 diameter_m = 0.00024 cross_section_mSq = 4.5238934211693026e-08
+
+
+resistivity_microOhmPerMeter = 0.151640907477595 temperature_C = 110 resistance_ohm = 10.056
+length_m = 3.0 diameter_m = 0.00024 cross_section_mSq = 4.5238934211693026e-08
+
+
+resistivity_microOhmPerMeter = 0.1577180043066991 temperature_C = 120 resistance_ohm = 10.459
+length_m = 3.0 diameter_m = 0.00024 cross_section_mSq = 4.5238934211693026e-08
+
